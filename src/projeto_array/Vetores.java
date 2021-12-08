@@ -1,4 +1,4 @@
-package Projeto_array;
+package projeto_array;
 
 import java.util.Locale;
 import java.util.Scanner;
